@@ -1,2 +1,2 @@
 # public
-A public repository which in order to share and collaborate with other developers.
+A public repository in order to share and collaborate with other developers.
